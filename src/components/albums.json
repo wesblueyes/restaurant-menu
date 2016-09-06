@@ -1,0 +1,88 @@
+{
+  "photoAlbums": [
+    {
+      "Album": {
+        "photos": [
+          "./images/breakfast/assorted-pastries.jpg",
+          "./images/breakfast/chicken-n-waffles.jpg",
+          "./images/breakfast/donuts.jpg",
+          "./images/breakfast/granola-fruit.jpg",
+          "./images/breakfast/latte.jpg",
+          "./images/breakfast/strawberry-toast.jpg",
+        ],
+        "coverPhoto": "./images/breakfast/donuts.jpg",
+        "name": "Breakfast"
+      }
+    },
+    {
+      "Album": {
+        "photos": [
+          "./images/lunch/burger.jpg",
+          "./images/lunch/garden-salad.jpg",
+          "./images/lunch/gumbo.jpg",
+          "./images/lunch/pizza.jpg",
+          "./images/lunch/pressed-sandwich.jpg",
+          "./images/lunch/tomato-bisk.jpg"
+        ],
+        "coverPhoto": "./images/lunch/garden-salad.jpg",
+        "name": "Garden Salad"
+      }
+    },
+    {
+      "Album": {
+        "photos": [
+          "./images/beverages/blueberry-gin.jpg",
+          "./images/beverages/berry-spritz.jpg",
+          "./images/beverages/wine.jpg",
+          "./images/beverages/craft-beer.jpg",
+          "./images/beverages/dark-stormy.jpg",
+          "./images/beverages/mint-julip.jpg"
+        ],
+        "coverPhoto": "./images/beverages/blueberry-gin.jpg",
+        "name": "Beverages"
+      }
+    },
+    {
+      "Album": {
+        "photos": [
+          "./images/appetizers/bread.jpg",
+          "./images/appetizers/cheese-plate.jpg",
+          ".images/appetizers/fruit-bowl.jpg",
+          "./images/appetizers/oysters.jpg",
+          "./images/appetizers/quiche.jpg",
+          "./images/appetizers/side-salad.jpg"
+        ],
+        "coverPhoto": "./images/appetizers/cheese-plate.jpg",
+        "name": "Appetizers"
+      }
+    },
+    {
+      "Album": {
+        "photos": [
+          "./images/dinner/curry-potatoes.jpg",
+          "./images/dinner/herb-pasta.jpg",
+          "./images/dinner/paella.jpg",
+          "./images/dinner/pork-chop.jpg",
+          "./images/dinner/pot-roast.jpg",
+          "./images/dinner/salmon.jpg"
+        ],
+        "coverPhoto": "./images/dinner/pork-chop.jpg",
+        "name": "Entrees"
+      }
+    },
+    {
+      "Album": {
+        "photos": [
+          "./images/dessert/berry-pie.jpg",
+          "./images/dessert/cookies.jpg",
+          "./images/dessert/icecream.jpg",
+          "./images/dessert/macaroons.jpg",
+          "./images/dessert/pound-cake.jpg",
+          "./images/dessert/sponge-cake.jpg"
+        ],
+        "coverPhoto": "./images/dessert/pound-cake.jpg",
+        "name": "Desserts"
+      }
+    }
+  ]
+}
